@@ -1,4 +1,6 @@
-
+body {
+	background-color: #2c3539;
+}
 
 #container-top {
 	background-color: #2c3539;
@@ -102,8 +104,8 @@
 
 .content2 {
 	font-family: Arial;
-	width: 400px;
-	float: right;
+	width: 600px;
+	float: left;
 	display: inline-block;
 }
 
